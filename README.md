@@ -1,5 +1,5 @@
 # cubit_data
 
-A new app.
+A news app.
 
 "D:\RoBy\Programming\Flutter\News App.mp4"
